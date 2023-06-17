@@ -1,0 +1,89 @@
+/*mywork*/
+.iconweb 
+    {
+      border-radius: 50%;
+      
+      position: relative;
+      margin: 0 auto;
+      width: 50px;
+      text-align: center;
+      height: 50px;
+      background:linear-gradient(to right, rgb(194, 200, 232) 0px, rgb(115, 139, 230) 100%);
+      box-shadow: rgba(32, 120, 211, 0.6) 0px 8px 29px 0px;
+      color:white;
+    }
+  
+.web 
+ {
+    width: 90%;
+    height: 90%;
+    margin-top: 3px
+  }
+  .iconweb1 
+    {
+      border-radius: 50%;
+      
+      position: relative;
+      margin: 0 auto;
+      width: 50px;
+      text-align: center;
+      height: 50px;
+      background:linear-gradient(to right, rgb(136, 75, 132) 0px, rgb(219, 22, 169) 100%);
+   
+      box-shadow: rgba(32, 120, 211, 0.6) 0px 8px 29px 0px;
+      color:white;
+    }
+  
+.web1 
+ {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+  }
+.iconweb3 
+    {
+      border-radius: 50%;
+      
+      position: relative;
+      margin: 0 auto;
+      width: 50px;
+      text-align: center;
+      height: 50px;
+         background:linear-gradient(to right, rgb(31, 118, 183) 0px, rgb(31, 211, 186) 100%);
+      box-shadow: rgba(32, 120, 211, 0.6) 0px 8px 29px 0px;
+      color:white;
+    }
+  
+.web3 
+ {
+    width: 70%;
+    height: 60%;
+    margin-top: 10px
+  }
+  /*mywork*/
+
+  /*skill*/
+  .skillIcon1
+    {
+      border-radius: 50%;
+      
+      position: relative;
+      margin: 0 auto;
+      width: 50px;
+      text-align: center;
+      height: 50px;
+      /*background:linear-gradient(to right, rgb(194, 200, 232) 0px, rgb(115, 139, 230) 100%);
+      box-shadow: rgba(32, 120, 211, 0.6) 0px 8px 29px 0px;
+      color:white;
+      text-align: center;
+padding-top: 20px;
+padding-bottom: 30px;*/
+    }
+  
+.php 
+ {
+    width: 90%;
+    height: 90%;
+    margin-top: 3px
+  }
+  /*skill*/
